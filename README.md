@@ -1,4 +1,4 @@
-## Hola! Me llamo Victor Saldivia 👋 / Hi! my name is Victor Saldivia 👋
+# Hola! Me llamo Victor Saldivia 👋 
 #### Freelance Mobile App Developer & Computer Science Academic
 
 Soy Ingeniero Civil en Informática. Me dedico actualmente al área de desarrollo de Apps móviles, y servicios de Bases de Datos NoSQL. Este último año también estado trabajando como académico universitario impartiendo diferentes asignaturas del área de programación, que es lo que me apasiona. 
