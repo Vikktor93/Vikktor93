@@ -1,7 +1,7 @@
 # Hola! Me llamo Victor Saldivia 👋 
 #### Freelance Mobile App Developer & Computer Science Academic
 
-Soy Ingeniero Civil en Informática. Me dedico actualmente al área de desarrollo de Apps móviles, y servicios de Bases de Datos NoSQL. Este último año también estado trabajando como académico universitario impartiendo diferentes asignaturas del área de programación, que es lo que me apasiona. 
+Soy Ingeniero Civil en Informática. Me dedico actualmente al área de desarrollo de Apps móviles, y servicios de Bases de Datos NoSQL. Estos últimos dos años he estado trabajando como académico universitario impartiendo diferentes asignaturas del área de programación, que es lo que me apasiona. 
 
 Iré agregando repositorios de diferentes proyectos y niveles de aprendizaje para toda la comunidad. Espero que te ayude!
 
