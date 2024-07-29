@@ -1,4 +1,7 @@
-# Hola! Me llamo Victor Saldivia 👋 
+# ¡Hola! Me llamo Victor Saldivia 👋 
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí
+
 #### Freelance Mobile App Developer & Computer Science Professor
 
 Soy Ingeniero Civil en Informática. Me dedico actualmente al área de desarrollo de Apps móviles, y servicios de Bases de Datos NoSQL. Estos últimos dos años he estado trabajando como académico universitario impartiendo diferentes asignaturas del área de programación, que es lo que me apasiona. 
