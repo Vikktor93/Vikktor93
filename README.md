@@ -4,7 +4,7 @@
 
 #### Freelance Mobile App Developer & Computer Science Professor
 
-Soy Ingeniero Civil en Informática. Me dedico actualmente al área de desarrollo de Apps móviles, y servicios de Bases de Datos NoSQL. Estos últimos dos años he estado trabajando como académico universitario impartiendo diferentes asignaturas del área de programación, que es lo que me apasiona. 
+Soy Ingeniero Civil en Informática 💻 y Mobile Developer 📲, actualmente me encuentro cursando un Magister en Data Science. Estos últimos tres años he estado trabajando como académico del Departamento de Ciencías de la Ingeniería de la ULagos, impartiendo diferentes asignaturas del área de programación, que es lo que me apasiona. 
 
 Iré agregando repositorios de diferentes proyectos y niveles de aprendizaje para toda la comunidad. Espero que te ayude!
 
