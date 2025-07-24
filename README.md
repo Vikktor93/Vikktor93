@@ -23,10 +23,6 @@ Iré agregando repositorios de diferentes proyectos y niveles de aprendizaje par
   </p>
 </picture>
 
-## Guias de Estudios:
-Proximamente ...
-<br>
-
 ## Contacto:
 [![Email](https://img.shields.io/badge/victor.saldivia@ulagos.cl-email_profesional_-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=182aad)](mailto:victor.saldivia@ulagos.cl)
 
