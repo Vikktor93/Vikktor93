@@ -19,7 +19,7 @@ Iré agregando repositorios de diferentes proyectos y niveles de aprendizaje par
 ## Estadísticas:
 <picture>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikktor93&layout=compact&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikktor93" />
   </p>
 </picture>
 
