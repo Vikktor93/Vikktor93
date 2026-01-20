@@ -3,6 +3,7 @@
 
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí
 #### Magíster en Data Science | Ingeniero Civil en Informática
+#### Académico de Ciencias de la Ingeniería & Mobile Developer
 Especialista en Ciencias de Datos y desarrollo de software, orientado a la creación de soluciones tecnológicas innovadoras y a la formación académica de nuevos talentos en ingeniería.
 - 🎓 **Postgrado:** Magíster en Data Science.
 - 💻 **Título Profesional:** Ingeniero Civil en Informática.
@@ -13,6 +14,7 @@ En este espacio comparto repositorios de diversos proyectos y recursos de aprend
 
 ## 🇺🇸 English Version
 #### MSc in Data Science | Computer Science Engineer
+#### Professor of Engineering Sciences & Mobile Developer
 Technology professional specializing in Data Science and software development, dedicated to building innovative solutions and mentoring the next generation of engineers.
 - 🎓 **Postgraduate:** Master of Science in Data Science.
 - 💻 **Professional Degree:** Civil Engineer in Computer Science.
