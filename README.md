@@ -34,11 +34,11 @@ I share repositories covering various projects and learning resources for the de
 ## Estadísticas:
 <picture>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikktor93" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikktor93" />-->
   </p>
 </picture>
 
-[![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93)](https://github.com/vikktor93/github-readme-activity-graph)
+[![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&theme=react-dark)](https://github.com/vikktor93/github-readme-activity-graph)
 
 ## Contacto:
 [![Email](https://img.shields.io/badge/victor.saldivia@ulagos.cl-email_profesional_-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=182aad)](mailto:victor.saldivia@ulagos.cl)
