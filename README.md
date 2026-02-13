@@ -38,7 +38,7 @@ I share repositories covering various projects and learning resources for the de
   </p>
 </picture>
 
-[![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&from=YYYY-MM-DD&theme=react-dark)](https://github.com/vikktor93/github-readme-activity-graph)
+[![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&theme=react-dark)](https://github.com/vikktor93/github-readme-activity-graph)
 
 ## Contacto:
 [![Email](https://img.shields.io/badge/victor.saldivia@ulagos.cl-email_profesional_-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=182aad)](mailto:victor.saldivia@ulagos.cl)
