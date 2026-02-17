@@ -46,7 +46,5 @@ I share repositories covering various projects and learning resources for the de
 
 ## Contacto:
 [![Email](https://img.shields.io/badge/victor.saldivia@ulagos.cl-email_profesional_-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=182aad)](mailto:victor.saldivia@ulagos.cl)
--->
-
 
 
