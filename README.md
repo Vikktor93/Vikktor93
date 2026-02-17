@@ -40,6 +40,11 @@ I share repositories covering various projects and learning resources for the de
 
 [![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://github-readme-stats.vercel.app/api?username=vikktor93&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vikktor93&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikktor93&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## Contacto:
 [![Email](https://img.shields.io/badge/victor.saldivia@ulagos.cl-email_profesional_-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=182aad)](mailto:victor.saldivia@ulagos.cl)
 
@@ -57,4 +62,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
