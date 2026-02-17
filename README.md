@@ -40,9 +40,17 @@ I share repositories covering various projects and learning resources for the de
 
 [![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-readme-stats.vercel.app/api?username=vikktor93&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikktor93&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikktor93&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikktor93&theme=transparent" height="160em" alt="Stats" />
+      <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=vikktor93&theme=transparent&hide_border=true" height="160em" alt="Streak" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikktor93&theme=transparent" height="160em" alt="Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikktor93&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikktor93&theme=transparent" height="160em" alt="Profile" />
+    </td>
+  </tr>
+</table>
 
 ## Contacto:
 [![Email](https://img.shields.io/badge/victor.saldivia@ulagos.cl-email_profesional_-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=182aad)](mailto:victor.saldivia@ulagos.cl)
