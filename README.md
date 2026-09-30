@@ -38,7 +38,7 @@ I share repositories covering various projects and learning resources for the de
   </p>
 </picture>
 
-[![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table align="center">
   <tr>
