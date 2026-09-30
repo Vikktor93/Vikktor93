@@ -38,7 +38,7 @@ I share repositories covering various projects and learning resources for the de
   </p>
 </picture>
 
-(https://fabianocouto-activity-graph.vercel.app/graph/?username=Vikktor93)](https://fabianocouto-activity-graph.vercel.app/graph/?username=Vikktor93)
+[![Github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=Vikktor93)]
 
 <table align="center">
   <tr>
