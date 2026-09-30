@@ -38,7 +38,6 @@ I share repositories covering various projects and learning resources for the de
   </p>
 </picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=342d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Vikktor93 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikktor93)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table align="center">
