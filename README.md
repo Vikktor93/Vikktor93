@@ -1,4 +1,8 @@
-# ¡Hola! Me llamo Victor Saldivia 👋 
+# ¡Hola! Me llamo Victor👋 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=vikktor93&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52120611%3Fu%3Dcf28a8a7c9953e26babf87fb3fca690c3c9b513d%26v%3D4" alt="vikktor93 galaxy visual" />
+</p>
+
 ## 🇪🇸 Versión en Español
 
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí
@@ -9,8 +13,6 @@ Especialista en Ciencias de Datos y desarrollo de software, orientado a la creac
 - 💻 **Título Profesional:** Ingeniero Civil en Informática.
 - 🏫 **Trayectoria Académica:** Durante estos últimos tres años, me he desempeñado como académico en el Departamento de Ciencias de la Ingeniería de la Universidad de Los Lagos, liderando cátedras en el área de programación.
 - 📱 **Desarrollo Mobile:** Consultor freelance especializado en la creación de aplicaciones móviles.
-
-En este espacio comparto repositorios de diversos proyectos y recursos de aprendizaje para la comunidad. Mi objetivo es documentar procesos y aportar herramientas útiles para otros desarrolladores. ¡Espero que encuentres contenido de valor!  
 
 ## 🇺🇸 English Version
 #### MSc in Data Science | Computer Science Engineer
@@ -29,6 +31,12 @@ I share repositories covering various projects and learning resources for the de
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,discord,npm,postgres,figma,firebase,html,java,c,cpp,dart,js,py,ruby,linux,ubuntu,kali,md,latex,materialui,mongodb,mysql,react,bootstrap,flutter,laravel,vscode,kubernetes&perline=10" />
   </a>
+</p>
+
+## Proyectos y Aportes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=vikktor93&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52120611%3Fu%3Dcf28a8a7c9953e26babf87fb3fca690c3c9b513d%26v%3D4" alt="vikktor93 projects visual" />
 </p>
 
 ## Estadísticas:
