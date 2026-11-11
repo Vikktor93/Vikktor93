@@ -1,7 +1,4 @@
 # ¡Hola! Me llamo Victor👋 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=vikktor93&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52120611%3Fu%3Dcf28a8a7c9953e26babf87fb3fca690c3c9b513d%26v%3D4" alt="vikktor93 galaxy visual" />
-</p>
 
 ## 🇪🇸 Versión en Español
 
