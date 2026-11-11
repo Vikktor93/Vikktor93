@@ -30,12 +30,6 @@ I share repositories covering various projects and learning resources for the de
   </a>
 </p>
 
-## Proyectos y Aportes
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=vikktor93&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52120611%3Fu%3Dcf28a8a7c9953e26babf87fb3fca690c3c9b513d%26v%3D4" alt="vikktor93 projects visual" />
-</p>
-
 ## Estadísticas:
 <picture>
   <p align="center">
